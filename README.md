@@ -1,5 +1,6 @@
 <h1>Hi, I'm Antwan Addison! <br/><a 
-href="https://www.linkedin.com/in/antwan-addison-59565321a/">Data Analyst</a>
+href="https://www.linkedin.com/in/antwan-addison-59565321a/">Data Analyst | Data Analytics</a>
+  
 </h1>
 
 <h2>📊Data Analytics Projects:</h2>
