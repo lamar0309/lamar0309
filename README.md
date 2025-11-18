@@ -5,7 +5,11 @@ href="https://www.linkedin.com/in/antwan-addison-59565321a/">Data Analyst</a>
 <h2>📊Data Analytics Projects:</h2>
 
 - <b>💾SQL Project</b>
-  - [Demonstrating SQL Techniques](COPY AND PASTE YOUR GITHUB PROJECT URL LINK HERE)
+  - [Demonstrating SQL Techniques](https://github.com/lamar0309/SQL_Techniques)
+
+- <b>💾Advanced SQL Project</b>
+  - [Demonstrating Advance SQL Techniques](https://github.com/lamar0309/SQL_Techniques)
+
 
 <h2>📚Certifications:</h2>
 
